@@ -1,0 +1,10 @@
+{
+	"title"		:	"WAC Precacher",
+	"type"		:	"vehicle",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.git*"
+	]
+}
